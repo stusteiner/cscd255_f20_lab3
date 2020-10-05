@@ -6,6 +6,6 @@
 
 double readWinningTime();
 double calculateKillmeterPerHour(const double DISTANCE, double winningTime, double seconds);
-
+double calcMetersPerSecond(const double DISTANCE, double winningTime);
 
 #endif

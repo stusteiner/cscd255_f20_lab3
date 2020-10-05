@@ -19,3 +19,7 @@ double calculateKillmeterPerHour(const double DISTANCE, double winningTime, doub
 }
 
 
+double calcMetersPerSecond(const double DISTANCE, double winningTime)
+{
+  return 0;
+}
